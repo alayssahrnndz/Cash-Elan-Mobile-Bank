@@ -94,8 +94,3 @@ npx expo build:android
 ## 🧡 Made with Love
 
 Crafted with ❤️ by the **Cash Elan Team**
-
-```
-
-You can add this file to your repo by creating a `README.md` file in the root directory. Let me know if you want me to generate the file or help you add badges, screenshots, or a license section!
-```
