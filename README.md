@@ -1,7 +1,4 @@
-Here's a polished `README.md` file you can add to your GitHub repository:
-
-````markdown
-# Cash Elan Mobile Bank 🏦📱
+### Cash Elan Mobile Bank 🏦📱
 
 A modern mobile banking application built with **React Native** and **Expo** for Android.
 
